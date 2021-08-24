@@ -1,28 +1,18 @@
 # SRGAN
 Super Resolution Generative Adversial Network
-
-We are
-
-    Ramon Vallés - 205419
-    Eduard Masip - 207322
-    Ferran Enguix - 195659
     
 This repository includes:
 
     The project code in .ipynb format.
     The project code in .py format.
     Two scripts in .py format to create new .mat files and slice images, both commented.
-    We cannot update the .mat file to train the model because the file is so big!
-    The .mat file with 100 of images from DIV2K Dataset (TEST).
-    The .mat file with few images of pixel-art to test the results in other kind of images (TEST).
+    A .mat file with 100 of images from DIV2K Dataset (TEST).
+    A .mat file with few images of pixel-art to test the results in other kind of images (TEST).
     
-Drive Link to obtain the MAT files: https://drive.google.com/drive/folders/1eiYDPu9iPxuuSZEdfP_Vap4kzNgVBPsU?usp=sharing
-    
-The idea of this project is obtain images with more resolution applying SRGAN.
 
-We use the architecture of this paper, with some changes: https://arxiv.org/abs/1609.04802.
+It has been followed the DL architecture proposed in this[https://arxiv.org/abs/1609.04802] paper with some minor changes.
 
-We use this dataset: https://data.vision.ee.ethz.ch/cvl/DIV2K/.
+To recreate the resouls of the project documentation the following dataset has been used: {NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study}[https://data.vision.ee.ethz.ch/cvl/DIV2K/].
 
 This SRGAN is trained and programed to increment by 2 the resolution, we use images of 64x64 to obtain 128x128 images.
 
