@@ -21,7 +21,7 @@ To recreate the resouls of the project documentation the following dataset has b
 - A .ckpt of the last pre-trained state of the model.
 
 ## Sample Test Images
-![alt text](https://github.com/VPRamon/SR-GAN/blob/main/Results/samlpe-test.jpg?raw=true)
+![sample test](https://github.com/VPRamon/SR-GAN/blob/b73b94d08d8f9fb4e51bfa3593076e3d3ea71700/Results/sample_test.png)
 
 ## Requirements
 
