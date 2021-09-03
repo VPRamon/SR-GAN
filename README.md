@@ -19,7 +19,10 @@ To recreate the resouls of the project documentation the following dataset has b
 - A .mat file with 1000 of images from DIV2K Dataset (TEST).
 - A .mat file with 800 images randomly taken from the web and proccessed to be tested with the model.
 - A .ckpt of the last pre-trained state of the model.
-    
+
+## Sample Test Images
+![alt text](https://github.com/VPRamon/SR-GAN/blob/main/Results/samlpe-test.jpg?raw=true)
+
 ## Requirements
 
 Make sure you have installed the PyTorch library: https://pytorch.org/get-started/locally/
