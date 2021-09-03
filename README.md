@@ -13,13 +13,12 @@ The project does not strictly follow the model proposed by the previously mentio
 To recreate the resouls of the project documentation the following dataset has been used: [NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study](https://data.vision.ee.ethz.ch/cvl/DIV2K/).
 
 ## Features
-
-    - The project code in .ipynb format.
-    - The project code in .py format.
-    - A .ipynb file to create new .mat Dataset files and slice images and downgrade resolution.
-    - A .mat file with 1000 of images from DIV2K Dataset (TEST).
-    - A .mat file with 800 images randomly taken from the web and proccessed to be tested with the model.
-    - A .ckpt of the last pre-trained state of the model.
+- The project code in .ipynb format.
+- The project code in .py format.
+- A .ipynb file to create new .mat Dataset files and slice images and downgrade resolution.
+- A .mat file with 1000 of images from DIV2K Dataset (TEST).
+- A .mat file with 800 images randomly taken from the web and proccessed to be tested with the model.
+- A .ckpt of the last pre-trained state of the model.
     
 ## Requirements
 
