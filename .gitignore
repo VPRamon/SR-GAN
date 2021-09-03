@@ -1,7 +1,4 @@
 # Ignore Dataset commits
-Data/
 *.png
-
-# Ignore Model states
-Results/
-*.ckpt
+*.jpg
+*.zip
