@@ -8,9 +8,9 @@ Super-resolution imaging (SR) is the process in which a high-resolution (HR) ima
 
 In this project we share a Generative Adversarial Network based on the research carried out by _Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi_ and published at archive.org under the name [_Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network_](https://arxiv.org/abs/1609.04802).
 
-The project does not strictly follow the model proposed by the previously mentioned authors of the paper, but rather includes slight modifications, particularly in the way the loss is computed for backpropagation in each of the models. It is also intended for personal testing, so that the exposed design manages to increase the resolution of small images to double its original (128x128) since the resources required for computing higher resolution images are not accessible to ordinary users.
+The project does not strictly follow the model proposed by the previously mentioned authors of the paper, but rather includes slight modifications, particularly in the way the loss is computed for backpropagation in each of the models. It is also intended for personal testing, so that the exposed design manages to increase the resolution of small images to double its original size (128x128) since the resources required for computing higher resolution images are not accessible to ordinary users.
 
-To recreate the resouls of the project documentation the following dataset has been used: [NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study](https://data.vision.ee.ethz.ch/cvl/DIV2K/).
+To recreate the results of the project documentation the following dataset has been used: [NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study](https://data.vision.ee.ethz.ch/cvl/DIV2K/).
 
 ## Features
 - The project code in .ipynb format.
