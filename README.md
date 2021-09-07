@@ -2,7 +2,7 @@
 ## _Super Resolution Generative Adversial Network_
 With the surge of Convolutional Neural Networks (CNN), artificial intelligence applied to computer vision has been booming in the last few years. This deep learning technology never ceases to surprise us with new applications such as Super Resolution Generative Adversial Network.
 
-Super-resolution imaging (SR) is the process in which a high-resolution (HR) image is recovered from a low-resolution (LR) image. This technology has been the subject of research for the last 3 years, which has allowed different DL specialists to perform different studies to make SR images as realistic as possible.
+Super-Resolution imaging (SR) is the process in which a high-resolution (HR) image is recovered from a low-resolution (LR) image. This technology has been the subject of research for the last 3 years, which has allowed different DL specialists to perform different studies to make SR images as realistic as possible.
 
 ## About the project
 
