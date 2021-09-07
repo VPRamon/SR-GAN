@@ -16,8 +16,8 @@ To recreate the results of the project documentation the following dataset has b
 - The project code in .ipynb format.
 - The project code in .py format.
 - A .ipynb file to create new .mat Dataset files and slice images and downgrade resolution.
-- A .mat file with 1000 of images from DIV2K Dataset (TEST).
-- A .mat file with 800 images randomly taken from the web and proccessed to be tested with the model.
+- A .mat file with 1000 of images from DIV2K Dataset (Train).
+- A .mat file with 800 images randomly taken from the web (Test).
 - A .ckpt of the last pre-trained state of the model.
 
 ## Sample Test Images
